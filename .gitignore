@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# VS Code extension packages
+*.vsix
+
+# Dev user data
+dev-user-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
