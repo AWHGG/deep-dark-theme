@@ -15,12 +15,12 @@
         "sideBarSectionHeader.border": "#202124",
         "sideBarTitle.foreground": "#808080",
         "editor.background": "#27282b",
-        "editor.foreground": "#808080",
+        "editor.foreground": "#cccccc",
         "editorCursor.foreground": "#007fd4",
         "editor.lineHighlightBackground": "#2a2b30",
         "editor.selectionBackground": "#264f78aa",
         "editorLineNumber.foreground": "#4b5263",
-        "editorLineNumber.activeForeground": "#808080",
+        "editorLineNumber.activeForeground": "#cccccc",
         "editorIndentGuide.background1": "#202124",
         "editorIndentGuide.activeBackground1": "#3b3e47",
         "editorGroup.border": "#202124",
@@ -132,7 +132,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#4a5068",
+                "foreground": "#687094",
                 "fontStyle": "italic"
             }
         },
@@ -143,7 +143,7 @@
                 "keyword.operator.new"
             ],
             "settings": {
-                "foreground": "#75609e"
+                "foreground": "#9d7cd8"
             }
         },
         {
@@ -153,7 +153,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#75609e"
+                "foreground": "#9d7cd8"
             }
         },
         {
@@ -163,7 +163,7 @@
                 "constant.language"
             ],
             "settings": {
-                "foreground": "#a86f50"
+                "foreground": "#ff9e64"
             }
         },
         {
@@ -172,7 +172,7 @@
                 "string.quoted"
             ],
             "settings": {
-                "foreground": "#72964d"
+                "foreground": "#9ece6a"
             }
         },
         {
@@ -182,7 +182,7 @@
                 "variable.language"
             ],
             "settings": {
-                "foreground": "#808080"
+                "foreground": "#a9b1d6"
             }
         },
         {
@@ -190,7 +190,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#a6824f"
+                "foreground": "#e0af68"
             }
         },
         {
@@ -199,7 +199,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#5a76b5"
+                "foreground": "#7aa2f7"
             }
         },
         {
@@ -208,7 +208,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#0a8099"
+                "foreground": "#0db9d7"
             }
         },
         {
@@ -217,7 +217,7 @@
                 "entity.name.type.class"
             ],
             "settings": {
-                "foreground": "#208ea3"
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -226,7 +226,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#208ea3"
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -236,7 +236,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#ad5768"
+                "foreground": "#f7768e"
             }
         },
         {
@@ -244,7 +244,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#8573b0"
+                "foreground": "#bb9af7"
             }
         },
         {
@@ -253,7 +253,7 @@
                 "meta.brace"
             ],
             "settings": {
-                "foreground": "#6a7ca3"
+                "foreground": "#9abdf5"
             }
         },
         {
@@ -261,7 +261,17 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#5f9ab0"
+                "foreground": "#89ddff"
+            }
+        },
+        {
+            "scope": [
+                "text.html.markdown",
+                "source.markdown",
+                "meta.paragraph.markdown"
+            ],
+            "settings": {
+                "foreground": "#606060"
             }
         }
     ]
