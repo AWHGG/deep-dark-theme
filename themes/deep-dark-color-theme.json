@@ -9,7 +9,7 @@
         "activityBarBadge.foreground": "#c8c8c8",
         "sideBar.background": "#202124",
         "sideBar.foreground": "#a8a8a8",
-        "sideBar.border": "#202124",
+        "sideBar.border": "#27282b",
         "sideBar.dropBackground": "#202124",
         "sideBarSectionHeader.background": "#202124",
         "sideBarSectionHeader.border": "#202124",
@@ -23,7 +23,7 @@
         "editorLineNumber.activeForeground": "#a8a8a8",
         "editorIndentGuide.background1": "#202124",
         "editorIndentGuide.activeBackground1": "#3b3e47",
-        "editorGroup.border": "#202124",
+        "editorGroup.border": "#27282b",
         "editorGroupHeader.tabsBackground": "#202124",
         "editorGroupHeader.tabsBorder": "#202124",
         "statusBar.background": "#202124",
@@ -90,10 +90,10 @@
         "input.foreground": "#a8a8a8",
         "input.border": "#00000000",
         "input.placeholderForeground": "#707070",
-        "focusBorder": "#2d2d32",
+        "focusBorder": "#00000000",
         "contrastBorder": "#00000000",
         "contrastActiveBorder": "#00000000",
-        "statusBar.focusBorder": "#2d2d32",
+        "statusBar.focusBorder": "#00000000",
         "button.border": "#00000000",
         "button.hoverBackground": "#37373d",
         "toolbar.hoverBackground": "#37373d",
@@ -123,7 +123,7 @@
         "inlineChat.border": "#2a2b30",
         "inlineChatInput.background": "#2a2b30",
         "inlineChatInput.border": "#2a2b30",
-        "inlineChatInput.focusBorder": "#3a3b40"
+        "inlineChatInput.focusBorder": "#00000000"
     },
     "tokenColors": [
         {
@@ -272,20 +272,20 @@
                 "source.chat"
             ],
             "settings": {
-                "foreground": "#a8a8a8"
+                "foreground": "#505050"
             }
         },
         {
             "scope": "markup.quote",
             "settings": {
-                "foreground": "#a8a8a8",
+                "foreground": "#454545",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "markup.raw",
             "settings": {
-                "foreground": "#a8a8a8"
+                "foreground": "#505050"
             }
         }
     ]
