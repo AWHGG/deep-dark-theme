@@ -274,20 +274,20 @@
                 "source.chat"
             ],
             "settings": {
-                "foreground": "#A1A1A1"
+                "foreground": "#B1B1B1"
             }
         },
         {
             "scope": "markup.quote",
             "settings": {
-                "foreground": "#8A8A8A",
+                "foreground": "#989898",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "markup.raw",
             "settings": {
-                "foreground": "#A1A1A1"
+                "foreground": "#B1B1B1"
             }
         }
     ]
