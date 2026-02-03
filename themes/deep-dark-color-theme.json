@@ -15,7 +15,7 @@
         "sideBarSectionHeader.border": "#202124",
         "sideBarTitle.foreground": "#a8a8a8",
         "editor.background": "#27282b",
-        "editor.foreground": "#a8a8a8",
+        "editor.foreground": "#979797",
         "editorCursor.foreground": "#007fd4",
         "editor.lineHighlightBackground": "#2a2b30",
         "editor.selectionBackground": "#264f78aa",
@@ -134,7 +134,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#4a5068",
+                "foreground": "#42485d",
                 "fontStyle": "italic"
             }
         },
@@ -145,7 +145,7 @@
                 "keyword.operator.new"
             ],
             "settings": {
-                "foreground": "#9d7cd8"
+                "foreground": "#8d6fc2"
             }
         },
         {
@@ -155,7 +155,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#9d7cd8"
+                "foreground": "#8d6fc2"
             }
         },
         {
@@ -165,7 +165,7 @@
                 "constant.language"
             ],
             "settings": {
-                "foreground": "#ff9e64"
+                "foreground": "#e58e5a"
             }
         },
         {
@@ -174,7 +174,7 @@
                 "string.quoted"
             ],
             "settings": {
-                "foreground": "#9ece6a"
+                "foreground": "#8eb95f"
             }
         },
         {
@@ -184,7 +184,7 @@
                 "variable.language"
             ],
             "settings": {
-                "foreground": "#a9b1d6"
+                "foreground": "#989fc0"
             }
         },
         {
@@ -192,7 +192,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#e0af68"
+                "foreground": "#c99d5d"
             }
         },
         {
@@ -201,7 +201,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#7aa2f7"
+                "foreground": "#6d91de"
             }
         },
         {
@@ -210,7 +210,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#0db9d7"
+                "foreground": "#0ba6c1"
             }
         },
         {
@@ -219,7 +219,7 @@
                 "entity.name.type.class"
             ],
             "settings": {
-                "foreground": "#2ac3de"
+                "foreground": "#25afc7"
             }
         },
         {
@@ -228,7 +228,7 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#2ac3de"
+                "foreground": "#25afc7"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#f7768e"
+                "foreground": "#de6a7f"
             }
         },
         {
@@ -246,7 +246,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#a88ade"
             }
         },
         {
@@ -255,7 +255,7 @@
                 "meta.brace"
             ],
             "settings": {
-                "foreground": "#9abdf5"
+                "foreground": "#8aaadc"
             }
         },
         {
@@ -263,7 +263,7 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#89ddff"
+                "foreground": "#7bc6e5"
             }
         },
         {
@@ -274,20 +274,20 @@
                 "source.chat"
             ],
             "settings": {
-                "foreground": "#505050"
+                "foreground": "#484848"
             }
         },
         {
             "scope": "markup.quote",
             "settings": {
-                "foreground": "#454545",
+                "foreground": "#3e3e3e",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "markup.raw",
             "settings": {
-                "foreground": "#505050"
+                "foreground": "#484848"
             }
         }
     ]
