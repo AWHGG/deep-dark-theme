@@ -3,7 +3,7 @@
   "publisher": "geniu",
   "displayName": "Deep Dark Theme",
   "description": "A deep dark theme with main color #202124",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "engines": {
     "vscode": "^1.70.0"
   },
