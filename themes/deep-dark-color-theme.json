@@ -119,13 +119,13 @@
         "textPreformat.foreground": "#a8a8a8",
         "textPreformat.background": "#2a2b30",
         "chat.requestBackground": "#202124",
-        "chat.requestBorder": "#2a2b30",
+        "chat.requestBorder": "#00000000",
         "chat.slashCommandBackground": "#2a2b30",
         "chat.slashCommandForeground": "#a8a8a8",
         "inlineChat.background": "#202124",
-        "inlineChat.border": "#2a2b30",
+        "inlineChat.border": "#00000000",
         "inlineChatInput.background": "#2a2b30",
-        "inlineChatInput.border": "#2a2b30",
+        "inlineChatInput.border": "#00000000",
         "inlineChatInput.focusBorder": "#00000000"
     },
     "tokenColors": [
