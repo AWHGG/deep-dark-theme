@@ -15,11 +15,11 @@
         "sideBarSectionHeader.border": "#202124",
         "sideBarTitle.foreground": "#a8a8a8",
         "editor.background": "#27282b",
-        "editor.foreground": "#979797",
+        "editor.foreground": "#b8b8b8",
         "editorCursor.foreground": "#007fd4",
         "editor.lineHighlightBackground": "#2a2b30",
         "editor.selectionBackground": "#264f78aa",
-        "editorLineNumber.foreground": "#4b5263",
+        "editorLineNumber.foreground": "#6b738a",
         "editorLineNumber.activeForeground": "#a8a8a8",
         "editorIndentGuide.background1": "#202124",
         "editorIndentGuide.activeBackground1": "#3b3e47",
@@ -115,12 +115,12 @@
         "textBlockQuote.background": "#202124",
         "textBlockQuote.border": "#2a2b30",
         "textCodeBlock.background": "#202124",
-        "textPreformat.foreground": "#808080",
+        "textPreformat.foreground": "#a8a8a8",
         "textPreformat.background": "#2a2b30",
         "chat.requestBackground": "#202124",
         "chat.requestBorder": "#2a2b30",
         "chat.slashCommandBackground": "#2a2b30",
-        "chat.slashCommandForeground": "#808080",
+        "chat.slashCommandForeground": "#a8a8a8",
         "inlineChat.background": "#202124",
         "inlineChat.border": "#2a2b30",
         "inlineChatInput.background": "#2a2b30",
@@ -134,7 +134,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#42485d",
+                "foreground": "#6c7496",
                 "fontStyle": "italic"
             }
         },
@@ -280,7 +280,7 @@
         {
             "scope": "markup.quote",
             "settings": {
-                "foreground": "#989898",
+                "foreground": "#b8b8b8",
                 "fontStyle": "italic"
             }
         },
