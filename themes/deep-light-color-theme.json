@@ -2,7 +2,7 @@
     "name": "Deep Light",
     "type": "light",
     "colors": {
-        "foreground": "#24292E",
+        "foreground": "#383a42",
         "descriptionForeground": "#57606A",
         "activityBar.background": "#F2F2F2",
         "activityBar.foreground": "#222222",
@@ -17,7 +17,7 @@
         "sideBarSectionHeader.border": "#00000000",
         "sideBarTitle.foreground": "#222222",
         "editor.background": "#FFFFFF",
-        "editor.foreground": "#24292E",
+        "editor.foreground": "#383a42",
         "editorCursor.foreground": "#0055a4",
         "editor.lineHighlightBackground": "#E0E0E0",
         "editor.selectionBackground": "#C8C8C8",
@@ -214,7 +214,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#757575",
+                "foreground": "#a0a1a7",
                 "fontStyle": "italic"
             }
         },
@@ -228,7 +228,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#AF00DB"
+                "foreground": "#a626a4"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "constant.language"
             ],
             "settings": {
-                "foreground": "#0000FF"
+                "foreground": "#986801"
             }
         },
         {
@@ -247,7 +247,7 @@
                 "string.quoted"
             ],
             "settings": {
-                "foreground": "#108510"
+                "foreground": "#50a14f"
             }
         },
         {
@@ -258,7 +258,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#24292E"
+                "foreground": "#e45649"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#005FB8"
+                "foreground": "#4078f2"
             }
         },
         {
@@ -280,17 +280,16 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#A31515"
+                "foreground": "#c18401"
             }
         },
         {
             "scope": [
                 "entity.name.tag",
-                "meta.tag.sgml",
-                "markup.deleted.git_gutter"
+                "meta.tag.sgml"
             ],
             "settings": {
-                "foreground": "#E53935"
+                "foreground": "#e45649"
             }
         },
         {
@@ -298,7 +297,7 @@
                 "entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#795E26"
+                "foreground": "#986801"
             }
         },
         {
@@ -308,7 +307,7 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#333333"
+                "foreground": "#0184bc"
             }
         },
         {
@@ -320,7 +319,7 @@
                 "meta.paragraph.markdown"
             ],
             "settings": {
-                "foreground": "#24292E"
+                "foreground": "#383a42"
             }
         },
         {
@@ -328,7 +327,7 @@
                 "markup.heading"
             ],
             "settings": {
-                "foreground": "#005FB8",
+                "foreground": "#e45649",
                 "fontStyle": "bold"
             }
         },
@@ -338,7 +337,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#24292E"
+                "foreground": "#383a42"
             }
         },
         {
@@ -346,7 +345,7 @@
                 "markup.quote"
             ],
             "settings": {
-                "foreground": "#757575",
+                "foreground": "#a0a1a7",
                 "fontStyle": "italic"
             }
         },
@@ -356,7 +355,7 @@
                 "markup.inline.raw"
             ],
             "settings": {
-                "foreground": "#108510"
+                "foreground": "#50a14f"
             }
         }
     ]
